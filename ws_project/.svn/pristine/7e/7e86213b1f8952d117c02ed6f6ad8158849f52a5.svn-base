@@ -1,0 +1,4 @@
+[develop]
+script_dir=$base/lib/QR_detector
+[install]
+install_scripts=$base/lib/QR_detector

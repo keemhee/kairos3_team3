@@ -1,0 +1,4 @@
+urdf
+*hand_right_front
+*hand_left_front
+=> one.obj, another.obj

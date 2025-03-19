@@ -1,0 +1,19 @@
+#request
+bool is_plc_ready
+int32 package_id
+string region
+float32 width
+float32 depth
+float32 height
+int32 process
+float32 x
+float32 y
+float32 theta
+---
+#result
+bool plc_result_action
+---
+#feedback
+int32 package_id
+string region
+int32 process
