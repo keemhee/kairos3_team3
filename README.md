@@ -1,7 +1,7 @@
 # kairos_project 🤖  
 25.01 ~ 25.03.20
 
-## 📦
+## 📦📦📦📦📦📦📦📦📦📦📦
 - 🚚 myAGV : trace yellow line -> detect red -> rear parking
              (ros2 run line_tracing_agv agv_node)
 - ⚡ PLC : receive agv parking signal -> operate conveyor
