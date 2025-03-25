@@ -8,6 +8,7 @@
   (ros2 run plc new_plc)
 - 📸 camera : recognize QR code  
   (ros2 run QR_detector detect_send)
-- 🦾 myCobot : place item at delivery location based on QR code when detected by the sensor -> send completion signal to AGV when all items are delivered  
+- 🦾 myCobot : place item at delivery location based on QR code when detected by the sensor -> send completion signal to AGV when all items are delivered
+  (ros2 run mycobot_pkg moveit_sub)
   (ros2 run moveit_cobot_pkg pick_place_action_server_test)  
   (ros2 launch mycobot_with_gripper demo.launch.py)
