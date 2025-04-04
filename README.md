@@ -1,5 +1,5 @@
 # kairos_project 🤖
-# 팀 일단멈춤
+## 팀 일단멈춤
 25.01 ~ 25.03.20
 # Automated Logistics System
 
